@@ -1,0 +1,4 @@
+__pycache__/
+data/__pycace__/
+data/base/client_secrets.json
+.env
